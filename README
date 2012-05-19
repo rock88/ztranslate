@@ -1,0 +1,32 @@
+--------------------------------------------
+zTranslate 1.0 (27/11/2011) README
+--------------------------------------------
+
+
+--------------------------------------------
+- Autor -
+--------------------------------------------
+rock88(c), 2012
+e-mail: rock88a@gmail.com
+
+
+--------------------------------------------
+- About -
+--------------------------------------------
+zTranslate - Translator for MotoMAGX phones (currently have a version for E8/EM30, also
+be compile a Z6, Z6W, V8, U9, ZN5, VE66, EM35, VA76), using Google Api for translation.
+
+This software is released under the GPL. For more information I direct you to the GPL.TXT.
+You may change the code anyway you like. You may not commercially sell this software.
+If you make changes, release the source code to the public and send the changes you made
+to the original authors.
+
+
+--------------------------------------------
+- How to Build -
+--------------------------------------------
+For compile you need Toolchains for Motomagx (http://exlmoto.ru/toolchains-sdk-for-motomagx/)
+and libnetexec (can take from the package zTranslate-E8-EM30.mgx (only E8-EM30), or build from
+source).
+Then go to the folder with the Makefile and type 'make'
+
